@@ -42,3 +42,14 @@ To get started with the Google Clone project locally, follow these steps:
 
    ```bash
    git clone https://github.com/sumit888/google-clone.git
+   
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd google-clone
+
+3. **Open the index.html File:**
+
+   ```bash
+   Open the index.html file in your preferred web browser to view the project.
+   
